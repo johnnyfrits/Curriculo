@@ -1,0 +1,91 @@
+.border {
+    border-style: none;
+}
+
+.div-main {
+    display: flex;
+}
+
+.div-left {
+    float: left;
+    width: fit-content;
+}
+
+.div-right {
+    float: left;
+}
+
+.foto-cv {
+    width: 75%;
+}
+
+.end-tel-email-div {
+    padding-left: 50px;
+    border-color: rgb(199, 18, 130);
+    overflow: hidden;
+}
+
+.texto-endereco {
+    width: fit-content;
+    padding-left: 10px;
+}
+
+.texto-fone {
+    width: fit-content;
+    padding-left: 10px;
+}
+
+.texto-email {
+    width: fit-content;
+    padding-left: 10px;
+}
+
+.end-div-img {
+    border-color: cornflowerblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fone-div-img {
+    border-color: rgb(100, 237, 111);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.email-img {
+    border-style: none;
+}
+
+.email-div-img {
+    border-color: rgb(237, 100, 196);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.endereco-div {
+    border-color: red;
+    display: flex;
+    align-items: center
+}
+
+.fone-div {
+    border-color: green;
+    display: flex;
+    align-items: center
+}
+
+.email-div {
+    border-color: rgb(255, 255, 0);
+    display: flex;
+    align-items: center
+}
+
+h1,
+h2,
+h3,
+p,
+li,
+span,
+a {
+    font-family: Calibri;
+}
